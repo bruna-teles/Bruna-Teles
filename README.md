@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a @bruna-teles
-- 👀 Estou interessada na área de de desenvolvimento front-end
+- 👀 Trabalho a na área de de desenvolvimento front-end
 - 🌱 Atualmente estou estudando mais aprofundadamente sobre HTML,CSS, JavaScritp e React 
 - 💞️ Estou procurando colaborar em projetos web
 - 📫 Contata-me no email: b.nicoleteles@hotmail.com
